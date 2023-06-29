@@ -1,6 +1,6 @@
-# TSN_ANDROID_DEMO_HELLO
-Простейшая программа суммы двух цифр на Android
+# Лабораторная работа 1
+Решение системы уравнений
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot1.png)
 
-https://www.youtube.com/watch?v=PMYmKEhbh0s
+
